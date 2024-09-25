@@ -1,9 +1,3 @@
-Dylan Bernier and Mihai Muntean
-Cssc4062 and Cssc4061
-570 Spring 24
-Assigment #2, XE Two Pass Assembler
-README
-
 Makefile, Main.cpp, instructions.txt, registers.txt, README, sample-Input.txt, P2sample.sic
 
 Compile Instructions: In Edoras go into a2 folder and type in make to compile Main.cpp

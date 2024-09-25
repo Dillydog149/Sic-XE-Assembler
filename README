@@ -1,0 +1,20 @@
+Dylan Bernier and Mihai Muntean
+Cssc4062 and Cssc4061
+570 Spring 24
+Assigment #2, XE Two Pass Assembler
+README
+
+Makefile, Main.cpp, instructions.txt, registers.txt, README, sample-Input.txt, P2sample.sic
+
+Compile Instructions: In Edoras go into a2 folder and type in make to compile Main.cpp
+
+Operating instructions: When running main.cpp type ./main “input file”
+
+List/description of novel/significant design decisions: The most significant design decision is instead of creating variables for the optab and the registers, we instead write out all the optab and all the registers in text files and have the program read those text files.
+
+List/description of any extra features/algorithms/ functionally: No extra features
+
+List/description of all known deficiencies or bugs: as of submitting this there are no known bugs but it is a large project so I wouldn’t be suprised if there was. If I were to guess it would be handling certain literals
+
+Lessons Learned: In the future for long programs like this manage our time better, by following our deadlines better and allocating more time.
+
